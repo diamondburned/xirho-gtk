@@ -19,6 +19,8 @@ github.com/zephyrtronium/xirho v0.5.1 h1:2SxwDczwApNDPjHDPv2Pu2Nxd76EIxQOt8LQUWG
 github.com/zephyrtronium/xirho v0.5.1/go.mod h1:fokLRpeFqY8kcO7YUdDURpbDe3irkxNQvgard2rtjKQ=
 github.com/zephyrtronium/xirho v0.5.2-0.20210301233907-fb42d997dee7 h1:H0RGU2hIjhSyeJd3aoq9Ozh5G2bZ/iVzZcOBxhacItQ=
 github.com/zephyrtronium/xirho v0.5.2-0.20210301233907-fb42d997dee7/go.mod h1:MOmxdg4e+SqDy6K+1LQI4IgoXXY/6ItRhLF1uUz2Ejg=
+github.com/zephyrtronium/xirho v0.5.2-0.20210302062502-d21b474e1473 h1:6nmm6SyPXTX1yvv+Z0pkOkztGiICSy0yzgr/ufdEQ+M=
+github.com/zephyrtronium/xirho v0.5.2-0.20210302062502-d21b474e1473/go.mod h1:MOmxdg4e+SqDy6K+1LQI4IgoXXY/6ItRhLF1uUz2Ejg=
 golang.org/x/exp v0.0.0-20180321215751-8460e604b9de/go.mod h1:CJ0aWSM057203Lf6IL+f9T1iT9GByDxfZKAQTCR3kQA=
 golang.org/x/exp v0.0.0-20180807140117-3d87b88a115f/go.mod h1:CJ0aWSM057203Lf6IL+f9T1iT9GByDxfZKAQTCR3kQA=
 golang.org/x/exp v0.0.0-20190125153040-c74c464bbbf2/go.mod h1:CJ0aWSM057203Lf6IL+f9T1iT9GByDxfZKAQTCR3kQA=

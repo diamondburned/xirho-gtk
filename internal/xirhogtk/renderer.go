@@ -113,18 +113,18 @@ func NewRenderer(file string, w, h, oversample int) (*Renderer, error) {
 		r.vplot.ToneMap = flm.ToneMap
 
 	case ".json":
-		system, render, tm, aspect, err := encoding.Unmarshal(json.NewDecoder(f))
+		system, err := encoding.Unmarshal(json.NewDecoder(f))
 		f.Close() // early close
 		if err != nil {
 			return nil, errors.Wrap(err, "failed to unmarshal json")
 		}
 
-		chg.System = system
-		chg.Size = calcSize(w, h, aspect)
-		chg.Camera = &render.Camera
-		chg.Palette = render.Palette
-		r.imgRatio = aspect
-		r.vplot.ToneMap = tm
+		chg.System = system.System
+		chg.Size = calcSize(w, h, system.Aspect)
+		chg.Camera = &system.Camera
+		chg.Palette = system.Palette
+		r.imgRatio = system.Aspect
+		r.vplot.ToneMap = system.ToneMap
 
 	default:
 		return nil, fmt.Errorf("unknown format %q", ext)
