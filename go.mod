@@ -2,7 +2,7 @@ module github.com/diamondburned/xirho-gtk
 
 go 1.16
 
-replace github.com/gotk3/gotk3 => github.com/diamondburned/gotk3 v0.0.0-20210223232102-0ce0ad615fb2
+replace github.com/gotk3/gotk3 => github.com/diamondburned/gotk3 v0.0.0-20210302203458-a5caabc1a0b8
 
 require (
 	github.com/gotk3/gotk3 v0.5.2

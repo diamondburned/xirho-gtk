@@ -3,6 +3,8 @@ github.com/dave/jennifer v1.4.0/go.mod h1:fIb+770HOpJ2fmN9EPPKOqm1vMGhB+TwXKMZhr
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/diamondburned/gotk3 v0.0.0-20210223232102-0ce0ad615fb2 h1:5pCv6KwXax3hfUCnfyRpsqrfY+6IFPQJuVEStCRC3w8=
 github.com/diamondburned/gotk3 v0.0.0-20210223232102-0ce0ad615fb2/go.mod h1:/hqFpkNa9T3JgNAE2fLvCdov7c5bw//FHNZrZ3Uv9/Q=
+github.com/diamondburned/gotk3 v0.0.0-20210302203458-a5caabc1a0b8 h1:Ul1o7E7PEXY28F88Zoyn3f/9Aq822ohObEmi1BPLAXo=
+github.com/diamondburned/gotk3 v0.0.0-20210302203458-a5caabc1a0b8/go.mod h1:/hqFpkNa9T3JgNAE2fLvCdov7c5bw//FHNZrZ3Uv9/Q=
 github.com/diamondburned/handy v0.0.0-20201229063418-ec23c1370374 h1:1KLPz5mbYF7t3ajrK55alkDcbjWc+7aQFjKzV9qJRN4=
 github.com/diamondburned/handy v0.0.0-20201229063418-ec23c1370374/go.mod h1:9EiMOAKWhEFoVnFLTco2v0v0rJn855YAHDDa2bL8urU=
 github.com/fogleman/gg v1.2.1-0.20190220221249-0403632d5b90/go.mod h1:R/bRT+9gY/C5z7JzPU0zXsXHKM4/ayA+zqcVNZzPa1k=
